@@ -1,1 +1,0 @@
-gunicorn 'health.wsgi'
